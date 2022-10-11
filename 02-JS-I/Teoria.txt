@@ -1,0 +1,12 @@
+
+Escribir explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Las variables seria un espacio de memoria reservado para almacenar algun tipo de datos.
+
+String: Los String son un conjunto de caracteres, estos caracteres deberan estar dentro de comillas para que asi se pueda leer con una cadena de caracteres.
+
+Funciones (argumentos, return): Las funciones es un conjunto de pasos que paso que realiza una tarea la cual devolvera algun valor en su resultado. 
+
+Declaraciones if : es una estructura de control que se utiliza para hacer una toma de decisiones, solo se va tomar en cuenta si la condicion es verdadera o falsa.
+
+Valores booleanos: los valores booleanos se representa de dos forma, true o false, estos valores son importante a la hora de tomar decisines, ya que de ellos depende el camino que se va a tomar en una estructura de control.
