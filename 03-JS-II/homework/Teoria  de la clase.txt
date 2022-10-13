@@ -1,0 +1,7 @@
+
+En el siguiente documento se esplicara un poco acerca de las definiciones de for
+&&, ||, ! .
+
+for: es uno de los ciclos de repeticion que tenemos y nos permite repetir una serie de intruciones un numero especifico de veces.
+
+&&, ||, ! : Son operadores logicos que nos permiten combinar distintas expreciones para formar condiciones mas elaboradas, ellos devuelven un valor, como puede ser verdadero o falso.
