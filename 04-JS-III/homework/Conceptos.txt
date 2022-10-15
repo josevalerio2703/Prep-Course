@@ -1,0 +1,2 @@
+
+Arrays: los arreglos son estructuras de datos que nos permiten almacenar multiples valor en una misma estructura
