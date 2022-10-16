@@ -1,0 +1,10 @@
+
+Objetos: nos permiten guardar un conjunto de propiedades que estan relacionadas con sus correspondientes valores.
+
+Propiedades: son las caracteristicas de que stienen los Objetos.
+
+Métodos: es el nombre que van a recibir las funciondes dentro de los Objetos, un metoto es igual a funcion, la unica diferencia que los metodos hace referencia a los objetos.
+
+Bucle for…in: es un bucle que nos va ayudar a iterar en las propiedades de los objetos.
+
+Notación de puntos vs notación de corchetes con la notacion de puntos debemos tener tener el nombre exacto de la propiedad para poder aceder a ella, sin embargo con la notacion de corchete tambien podemos ingresar a sus propiedades, pero teniendo un plus que podemos ingresar mediante una asignacion.
