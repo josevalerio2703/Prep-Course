@@ -1,0 +1,3 @@
+
+prototype :se puede decir que son una plantilla en la cual los objetos hereda métodos y propiedades.
+_Constructors_ (de Clases) : es un metodo en el cual que nos sirve para crear objetos a partir de una clase, la cual mediante ese metodo va recibir unos parametos y asignarlos a su propiedades.
